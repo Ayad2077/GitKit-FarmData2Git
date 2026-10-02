@@ -1,3 +1,5 @@
+> **Portfolio context:** This is Ayad Abunab's fork of the [CSS 360 FarmData2 GitKit repository](https://github.com/CSS360-2026-Winter/GitKit-FarmData2Git). My visible contributions here are README typo fixes. The FarmData2 application and documentation below belong to the upstream project and its contributors.
+
 ## FarmData2 ##
 
 FarmData2 is an application that supports the operation and certification requirements for small organic farming operations.
